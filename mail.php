@@ -1,7 +1,7 @@
 <?php
 
 // Set the recipient email address(es)
-$to = 'qhubaibshaikh56@gmail.com';
+$to = 'contact@qhubaib.in';
 
 // Set the email subject
 $subject = 'New Contact Form Submission';
